@@ -25,7 +25,7 @@
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/):white_check_mark:
 21. [Two Sum](https://leetcode.com/problems/two-sum/):white_check_mark:
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/):white_check_mark:
-23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/):white_check_mark:
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [Plus One](https://leetcode.com/problems/plus-one/)
