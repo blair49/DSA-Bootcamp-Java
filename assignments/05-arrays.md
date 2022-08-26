@@ -33,9 +33,9 @@
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/):white_check_mark:
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/):white_check_mark:
+2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/):white_check_mark:
+3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/):white_check_mark:
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
