@@ -39,10 +39,10 @@
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/):white_check_mark:
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/):white_check_mark:
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/):white_check_mark:
-7. [Jump Game](https://leetcode.com/problems/jump-game/)
-8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
-9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
-10. [House Robber](https://leetcode.com/problems/house-robber/)
+7. [Jump Game](https://leetcode.com/problems/jump-game/):white_check_mark:
+8. [Rotate Array](https://leetcode.com/problems/rotate-array/):white_check_mark:
+9. [Sort Colors](https://leetcode.com/problems/sort-colors/):white_check_mark:
+10. [House Robber](https://leetcode.com/problems/house-robber/):white_check_mark:
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
