@@ -45,6 +45,6 @@
 10. [House Robber](https://leetcode.com/problems/house-robber/):white_check_mark:
 
 ### Hard
-1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/):white_check_mark:
+2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/):white_check_mark:
+3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/):white_check_mark:
