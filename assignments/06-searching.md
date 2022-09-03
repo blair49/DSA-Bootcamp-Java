@@ -14,10 +14,10 @@
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/):white_check_mark:
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/):white_check_mark:
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/):white_check_mark:
-- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/):white_check_mark:
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/):white_check_mark:
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/):white_check_mark:
+- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/):white_check_mark:
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
